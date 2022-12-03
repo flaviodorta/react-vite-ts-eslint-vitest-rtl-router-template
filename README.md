@@ -20,7 +20,7 @@
       <a href="https://github.com/flaviodorta/react-vite-ts-eslint-vitest-rtl-router-template/pulls">Request Feature</a>
   </p>
 
-![image info](https://imgur.com/a/dA4JBTH)
+![image info](https://i.imgur.com/G7npzFO.png)
 
 </p>
 
